@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stalin Pereira</h1>
 <h3 align="center">An obsessive perfectionist.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imatefx&label=Profile%20views&color=0e75b6&style=flat" alt="imatefx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imatefx" alt="imatefx" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/imatefx" target="blank"><img src="https://img.shields.io/twitter/follow/imatefx?logo=twitter&style=for-the-badge" alt="imatefx" /></a> </p>
 
 - 💬 Ask me about **Anything related to computers**
@@ -24,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imatefx&show_icons=true&locale=en&layout=compact" alt="imatefx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imatefx&show_icons=true&theme=synthwave&locale=en" alt="imatefx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imatefx&show_icons=true&theme=none&locale=en" alt="imatefx" /></p>
 
 <!--
 **imatefx/imatefx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
