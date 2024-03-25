@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Stalin Pereira</h1>
+<!-- <h1 align="center">Hi 👋, I'm Stalin Pereira</h1> -->
 <!-- <h3 align="center">An obsessive perfectionist.</h3> -->
 
 <p align="left"> <a href="https://twitter.com/imatefx" target="blank"><img src="https://img.shields.io/twitter/follow/imatefx?logo=twitter&style=for-the-badge" alt="imatefx" /></a> </p>
 
-- 📫 How to reach me **stalin@imatefx.com**
+- 📫 How to reach me **hello@imatefx.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
